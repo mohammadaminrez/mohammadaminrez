@@ -14,7 +14,6 @@
 
 ### Frontend
 - Vue.js
-- Vuex/Pinia
 - Vue Router
 
 ### Backend
@@ -36,6 +35,3 @@
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadaminrez&layout=compact&theme=radical)
-
----
-⭐️ From [mohammadaminrez](https://github.com/mohammadaminrez)
