@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amin Rezaei Sepehr
+# 👋 Hi, I'm Amin
 
 ## About Me
 - 🌱 I'm a Full Stack Flutter Developer and Vue.js Frontend Developer
