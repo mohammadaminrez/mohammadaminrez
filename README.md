@@ -31,7 +31,7 @@
 - More projects coming soon...
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadaminrez&show_icons=true&theme=radical&cache_seconds=0)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadaminrez&show_icons=true&theme=radical&cache_seconds=1800&refresh=1)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadaminrez&layout=compact&theme=radical&cache_seconds=0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadaminrez&layout=compact&theme=radical&cache_seconds=1800&refresh=1)
