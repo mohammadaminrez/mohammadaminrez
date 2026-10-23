@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Mohammad Amin Rezaei Sepehr
 
-### Full Stack Developer
+### Full Stack Web Developer
 
 ---
 
